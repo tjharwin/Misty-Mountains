@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Club
+comment0.text=\r\n\ The\ Club\ class\ stores\ and\ retreives\ information\ about\ all\ the\ climbers\ in\ \r\n\ the\ club.\ It\ features\ methods\ to\ return\ the\ climber\ with\ the\ highest\ average\ \r\n\ height\ climbed,\ the\ highest\ mountain\ recorded\ across\ the\ climbers\ and\ a\ list\r\n\ of\ all\ mountains\ over\ a\ given\ height.\r\n\ \r\n\ @author\ Thomas\ Harwin\r\n\ @version\ 1.0\r\n
+comment1.params=name
+comment1.target=Club(java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Club.\r\n
+comment2.params=climber
+comment2.target=void\ addClimber(Climber)
+comment2.text=\r\n\ Method\ for\ adding\ a\ climber\ to\ the\ club.\r\n\ \r\n\ @param\ Takes\ an\ instance\ of\ climber.\ \ \r\n
+comment3.params=
+comment3.target=java.util.ArrayList\ getClubClimbers()
+comment3.text=\r\n\ Method\ for\ returning\ a\ list\ of\ climbers\ in\ the\ club.\r\n\ \r\n\ @return\ An\ array\ list\ of\ climbers.\r\n
+comment4.params=
+comment4.target=Climber\ getHighestRecordedAvgClimber()
+comment4.text=\r\n\ A\ method\ which\ returns\ the\ climber\ who\ has\ recorded\ the\ highest\ average\ \r\n\ mountain\ height\ within\ the\ club.\r\n\ \r\n\ @return\ An\ instance\ of\ climber.\r\n
+comment5.params=
+comment5.target=Mountain\ getHighestMountainInClub()
+comment5.text=\r\n\ A\ method\ which\ returns\ the\ highest\ mountain\ recorded\ across\ all\ members\ \r\n\ of\ the\ club.\r\n\ \r\n\ @return\ An\ instance\ of\ mountain.\r\n
+comment6.params=height
+comment6.target=java.util.ArrayList\ getMountainsGreaterThanInClub(int)
+comment6.text=\r\n\ A\ method\ which\ returns\ a\ list\ of\ all\ mountains\ recorded\ by\ the\ climbers\ \r\n\ within\ a\ club\ which\ have\ a\ height\ greater\ than\ a\ given\ level.\r\n\ \r\n\ @param\ Takes\ height\ (int)\ as\ a\ parameter.\r\n\ \r\n\ @return\ An\ array\ list\ of\ mountains.\r\n
+numComments=7

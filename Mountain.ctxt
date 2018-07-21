@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Mountain
+comment0.text=\r\n\ The\ Mountain\ class\ stores\ and\ retreives\ information\ about\ the\ name\ and\ height\ (in\ meters)\ of\ the\r\n\ a\ mountain.\r\n\ \r\n\ @author\ Thomas\ Harwin\r\n\ @version\ 1.0\r\n
+comment1.params=name\ meters
+comment1.target=Mountain(java.lang.String,\ int)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Mountain\r\n\ \r\n\ @param\ Takes\ the\ name\ (String)\ of\ a\ mountain\ and\ the\ height\ (int)\ in\ \r\n\ meters.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getName()
+comment2.text=\r\n\ Method\ for\ returning\ the\ name\ of\ a\ mountain.\r\n\ \r\n\ @return\ A\ string\ of\ text.\r\n
+comment3.params=
+comment3.target=int\ getHeight()
+comment3.text=\r\n\ Method\ for\ returning\ the\ height\ of\ a\ mountain.\r\n\ \r\n\ @return\ An\ integer.\r\n
+numComments=4

@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=ClubStats
+comment0.text=\r\n\ The\ ClubStats\ class\ features\ the\ main\ method\ of\ Misty\ Mountains\ program.\ It\r\n\ presents\ the\ user\ with\ a\ menu\ printed\ to\ the\ console\ which\ allows\ them\ to\r\n\ access\ a\ number\ of\ features\ which\ include\:\r\n\ \r\n\ \ -Adding\ a\ new\ climber\ to\ the\ club.\r\n\ \ -Adding\ details\ of\ a\ new\ mountain\ climbed\ to\ the\ record\ a\ climber.\r\n\ \ -Providing\ various\ statistics\ including\ \ the\ \ climber\ \ who\ \ has\ \ recorded\ \ \r\n\ \ \ the\ \ highest\ \ average\ mountain\ height,\ the\ highest\ mountain\ recorded\ by\ a\r\n\ \ \ club\ member\ and\ all\ mountains\ recorded\ with\ a\ height\ greater\ than\ a\ given\ \r\n\ \ \ level.\ \r\n\ \r\n\ @author\ Thomas\ Harwin\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+numComments=2
